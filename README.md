@@ -1,6 +1,5 @@
 <h1>Group-Based-Script-Permissions-Linux</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project demonstrates secure user and group management in a Linux environment using group-based permissions and shell scripting. It shows how to restrict script execution so that only authorized users from specific groups can run them, using tools like chmod and chgrp. The solution reinforces the concept of access control and secure scripting in multi-user systems.
